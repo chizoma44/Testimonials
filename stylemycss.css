@@ -67,6 +67,10 @@ body {
   box-shadow: 0.5px 0.5px 1px whitesmoke;
   width: 550px;
 }
+img {
+  border-radius: 29px;
+  width: 30px;
+}
 .name {
   line-height: 24px;
   font-weight: 600;
