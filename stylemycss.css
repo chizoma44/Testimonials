@@ -43,6 +43,7 @@ body {
 .box3 {
   background: var(--White);
   padding: 26px;
+  padding-bottom: 1px;
   border-radius: 10px;
   color: var(--Very-dark-blackish-blue);
   grid-column: 4;
