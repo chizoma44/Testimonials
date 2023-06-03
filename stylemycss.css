@@ -116,7 +116,4 @@ img {
     justify-content: center;
     grid-column: 1/4;
   }
-  .box1 {
-    width: 100px;
-  }
 }
