@@ -113,6 +113,7 @@ img {
 @media (max-width: 900px) {
   .container {
     display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
     justify-content: center;
     grid-column: 1/4;
   }
