@@ -125,4 +125,7 @@ img {
     margin: 40px 20px;
     box-shadow: none;
   }
+  .box3 {
+    background: pink;
+  }
 }
