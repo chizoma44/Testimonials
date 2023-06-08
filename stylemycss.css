@@ -112,9 +112,17 @@ img {
 }
 @media (max-width: 900px) {
   .container {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    display: block;
     justify-content: center;
-    grid-column: 1/4;
+  }
+  .box1,
+  .box2,
+  .box3,
+  .box4,
+  .box5 {
+    width: 100%;
+    height: auto;
+    margin: 40px 20px;
+    box-shadow: none;
   }
 }
